@@ -1,0 +1,30 @@
+[
+{
+"question" : "What's the keyword for delcaring a new variable?",
+"answers" : ["var", "v", "variable"],
+"correctAnswerIndex" : 0,
+"feedback" : "var is the keyword used to declare a new variable."
+
+},
+{
+"question" : "What's the keyword for delcaring a new constant?",
+"answers" : ["constant", "let", "con"],
+"correctAnswerIndex" : 1,
+"feedback" : "let is the keyword used to declare a new variable."
+
+},
+{
+"question" : "Who lost Super Bowl VII?",
+"answers" : ["Vikings", "Cowboys", "Redskins"],
+"correctAnswerIndex" : 2,
+"feedback" : "The Miami Dolphins defeated the Washington Redskins 14 to 7 in 1973."
+},
+{
+{
+"question" : "How old was Mike Tyson when he became Heavyweight Champion of the World?",
+"answers" : ["20", "22", "25"],
+"correctAnswerIndex" : 0,
+"feedback" : "Mike Tyson was 20 years old when he knocked out 33 year old Trevor Berbick for the Heavyweight Championship in 1986."
+
+}
+]
