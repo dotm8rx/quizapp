@@ -7,7 +7,7 @@
 
 },
 {
-"question" : "What's the keyword for delcaring a new constant?",
+"question" : "What's the keyword for declaring a new constant?",
 "answers" : ["constant", "let", "con"],
 "correctAnswerIndex" : 1,
 "feedback" : "let is the keyword used to declare a new variable."
